@@ -22,5 +22,4 @@
 - Componentização e organização dos templates - OK
 - Configuração dos arquivos estaticos - OK
 - Envio de mensagens no Chat - OK
-
 - Criação de novas salas - OK
